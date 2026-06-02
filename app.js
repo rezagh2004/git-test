@@ -5,3 +5,7 @@ const isLogin=(user)=>{
         return false
     }
 }
+
+const getMe=(user)=>{
+    return true
+}
