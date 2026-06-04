@@ -26,7 +26,3 @@ const addCourse=(course)=>{
 const test=()=>{
     return true
 }
-
-const setTicket=()=>{
-    return true
-}
